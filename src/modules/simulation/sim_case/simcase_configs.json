@@ -1,0 +1,17 @@
+{
+    "DirectoryPaths": {
+        "REL_PATH_FE_DATA": "fe_input_data/",
+        "REL_PATH_MSD_DATA": "msd_data/"
+    },
+    "FileExtensions": {
+        "GLOBAL_PROPS_TIME_AVERAGE": ".prop",
+        "PRINT_PROPS": ".printprop",
+        "RDF_DATA": ".rdf"
+    },
+    "FileNames": {
+        "LAMMPS_LOG_FILE_TEMPLATE_NAME": "log.lammps",
+        "GLOBAL_PROPS_TIME_AVERAGED": "GlobalPropsTimeAvg.prop",
+        "NEFE_IRWORK_BACKWARD_FILENAME": "backward_250K.dat",
+        "NEFE_IRWORK_FORWARD_FILENAME": "forward_250K.dat"
+    }
+}

@@ -1,0 +1,5 @@
+[
+  {"name": "h2o", "mass": 18.0, "charge": 0, "k": null, "omega": null},
+  {"name": "ch4", "mass": 16.0, "charge": 0, "k": null, "omega": null},
+  {"name": "co2", "mass": 44.0, "charge": 0, "k": null, "omega": null}
+]

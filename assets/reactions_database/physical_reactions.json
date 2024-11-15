@@ -1,0 +1,27 @@
+[
+  {
+    "name": "si_co2_hydrate_dissociation",
+    "reactants": [
+      {
+        "name": "hydrate",
+        "mass": 147.51,
+        "stoch_coeff": 1,
+        "sim_foldername_relpath": "H_hyd/generated_ffs_epsilon_sigma_ij_pairs_lhs_co2hyd_N1000_eps_0.3-0.8_sigma_3.0-4.6_notes_optimal_cc_eps0.64_sigma4.25"
+      }
+    ],
+    "products": [
+      {
+        "name": "h2o",
+        "mass": 18,
+        "stoch_coeff": 5.75,
+        "sim_foldername_relpath": "H_water/generated_ffs_epsilon_sigma_ij_pairs_lhs_co2hyd_N1000_eps_0.3-0.8_sigma_3.0-4.6_notes_optimal_cc_eps0.64_sigma4.25"
+      },
+      {
+        "name": "co2",
+        "mass": 44,
+        "stoch_coeff": 1,
+        "sim_foldername_relpath": "H_co2/generated_ffs_epsilon_sigma_ij_pairs_lhs_co2hyd_N1000_eps_0.3-0.8_sigma_3.0-4.6_notes_optimal_cc_eps0.64_sigma4.25"
+      }
+    ]
+  }
+]

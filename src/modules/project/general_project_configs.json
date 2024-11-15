@@ -1,0 +1,10 @@
+{
+  "DirectoryPaths": {
+    "REL_PATH_SIMCASE_CONFIG": "modules/simulation/sim_case"
+  },
+  "FileExtensions": {
+  },
+  "FileNames": {
+    "SIMCASE_CONFIG_FILENAME": "simcase_configs.json"
+  }
+}

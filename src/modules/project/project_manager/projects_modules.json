@@ -1,0 +1,22 @@
+{
+  "fe": {
+    "module": "src/modules/project/projects/free_energy_project/free_energy_project.py",
+    "class": "FreeEnergyProject"
+  },
+  "nw": {
+    "module": "modules.project.projects.hydration_number_project",
+    "class": "HydrationNumberProject"
+  },
+  "dhdiss": {
+    "module": "src/modules/project/projects/dissociation_enthalpy_project/dissociation_enthalpy_project.py",
+    "class": "DissociationEnthalpyProject"
+  },
+  "sol": {
+    "module": "/Users/unconvrs/Documents/GitHub/co2hydrates/nefe_calc/src/modules/project/projects/solubility/solubility_project.py",
+    "class": "SolubilityProject"
+  },
+  "gp": {
+    "module": "src/modules/project/projects/global_prop_project/global_prop_project.py",
+    "class": "GlobalPropProject"
+  }
+}
