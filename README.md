@@ -5,7 +5,10 @@ Code developed as part of our DOE-funded project titled "Coarse-Grained Molecula
 
 # Author:
 Meisam Adibifard  
+
 PhD in Engineering Science
+
 Louisiana State University
+
 E-mail: [me.adibifard@gmail.com](mailto:me.adibifard@gmail.com) 
 
